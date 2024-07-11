@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saran V</h1>
 <h3 align="center">Aspiring Software Developer from India</h3>
 
-- 🏢 Software Developer Intern @[Beau Roi](beauroi.com)
+- 🏢 Software Developer Intern @ [Beau Roi](beauroi.com)
 
-- 🏢 Web Developer @[Space Kidz India](spacekidzindia.in)
+- 🏢 Web Developer @ [Space Kidz India](spacekidzindia.in)
 
 - 📫 How to reach me **saranvoffl@gmail.com**
 
